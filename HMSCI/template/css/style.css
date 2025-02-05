@@ -1,0 +1,10 @@
+body{
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url("../images/bg.png") !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+}
+#navbar_text{
+	color: #fff !important;
+	font-size: 28px !important;
+	font-family: 'Times New Roman', Times, serif;
+}
